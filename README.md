@@ -1,6 +1,6 @@
 # Spam Detection With Comparative Text Classification  
 
-This project explores spam detection using Natural Language Processing (NLP) techniques. It implements and compares multiple text classification approaches to identify spam messages effectively.
+This project explores spam detection using Natural Language Processing (NLP) techniques. The objective is to conduct a comprehensive comparative analysis of a traditional statistical model (TF-IDF + Naive Bayes) and a modern deep learning model (Word2Vec + LSTM) for SMS spam detection. 
 
 ## 🌟 Features
 - Preprocessing of text data for NLP tasks.
